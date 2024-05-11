@@ -1,7 +1,7 @@
 # ruby-doctests
 Doctests inspired by Elixir, Rust, and Python
 
-> **Dev status:** Looking at previous solutions.
+> **Dev status:** Looking at earlier code.
 
 ## Prior Art
 
