@@ -1,6 +1,8 @@
 # ruby-doctests
 Doctests inspired by Elixir, Rust, and Python
 
+**Dev status:** Looking at previous solutions.
+
 ## Prior Art
 
 |                |                                           |                                           |
