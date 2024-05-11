@@ -3,7 +3,7 @@ Doctests inspired by Elixir, Rust, and Python
 
 > **Dev status:** Experimenting with [ruby-doctest2](https://github.com/Qqwy/ruby-doctest2). Judging the feasibility of writing an adapter to scan a directory and auto-discover doctests.
 
-Rust, Elixir, and Python provide this by letting you embed a REPL session in a comment. These are auto-discovered and executed against the current code as part of the test suite. I like them as unit tests because they're faster to write. They're also living documentation—they don't go out of sync easily.
+Rust, Elixir, and Python provide Doctests by letting you embed a REPL session in a comment. These are auto-discovered and executed against the current code as part of the test suite. I like them as unit tests because they're faster to write. They're also living documentation—they don't go out of sync easily.
 
 ## Elixir Example
 
