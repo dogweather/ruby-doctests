@@ -5,8 +5,9 @@ Doctests inspired by Elixir, Rust, and Python
 
 |    |    |    |
 |----|----|----|
-|Dest        |https://github.com/Reizar/Dest             |Looks very nice. Uses custom REPL format.|
-|doctest-core|https://rubygems.org/gems/doctest-core/    |                                         |
-|rubydoctest |https://rubygems.org/gems/rubydoctest/     |                                         |
-|yard-doctest|https://rubygems.org/gems/yard-doctest/    |Updated relatively recently, in 2019.    |
+|Dest            |https://github.com/Reizar/Dest             |Looks very nice. Uses custom REPL format.  |
+|doctest-core    |https://rubygems.org/gems/doctest-core/    |                                           |
+|minitest-doctest|https://github.com/lauri/minitest-doctest  |Maybe the easiest to integrate w/ Minitest?|
+|rubydoctest     |https://rubygems.org/gems/rubydoctest/     |                                           |
+|yard-doctest    |https://rubygems.org/gems/yard-doctest/    |Updated relatively recently, in 2019.      |
 
